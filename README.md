@@ -9,3 +9,6 @@ https://nbviewer.jupyter.org/github/eddieshengyuwang/ML_Tutorials/blob/master/ex
   
 Second tutorial:
 https://nbviewer.jupyter.org/github/eddieshengyuwang/ML_Tutorials/blob/master/ex2_MultiRegr/Multivariate%20Linear%20Regression.ipynb
+
+Third tutorial:
+https://nbviewer.jupyter.org/github/eddieshengyuwang/ML_Tutorials/blob/master/ex3_LogRgr/Log_Regr_Tut.ipynb
