@@ -12,3 +12,6 @@ https://nbviewer.jupyter.org/github/eddieshengyuwang/ML_Tutorials/blob/master/ex
 
 Third tutorial:
 https://nbviewer.jupyter.org/github/eddieshengyuwang/ML_Tutorials/blob/master/ex3_LogRgr/Log_Regr_Tut.ipynb
+
+Fourth tutorial:
+https://nbviewer.jupyter.org/github/eddieshengyuwang/ML_Tutorials/blob/master/ex3_LogRgr/Log_Regr_Tut2.ipynb
