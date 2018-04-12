@@ -4,11 +4,13 @@ Here you can find implementation and explanations of all the assignments in Andr
 
 [ex1 (pt. 1) - Simple Linear Regression]( 
 https://nbviewer.jupyter.org/github/eddieshengyuwang/ML_Tutorials/blob/master/ex1_LinearRegression/gr_desc_SLRM.ipynb)
+
 [ex1 (pt. 2) - Multivariable Linear Regression](
 https://nbviewer.jupyter.org/github/eddieshengyuwang/ML_Tutorials/blob/master/ex1_MultiRegre/Multivariate%20Linear%20Regression.ipynb)
 
 [ex2 (pt. 1) - Logistic Regression](
 https://nbviewer.jupyter.org/github/eddieshengyuwang/ML_Tutorials/blob/master/ex2_LogRgr/Log_Regr_Tut.ipynb)
+
 [ex2 (pt. 2) - Logistic Regression with Regularization](
 https://nbviewer.jupyter.org/github/eddieshengyuwang/ML_Tutorials/blob/master/ex2_LogRgr/Log_Regr_Tut2.ipynb)
 
@@ -23,5 +25,6 @@ https://nbviewer.jupyter.org/github/eddieshengyuwang/ML_Tutorials/blob/master/ex
 
 [ex6 (pt. 1) - Support Vector Machines](
 https://nbviewer.jupyter.org/github/eddieshengyuwang/ML_Tutorials/blob/master/ex6_SVM/SVMs.ipynb)
+
 [ex6 (pt. 2) - Spam Classification using SVMs](https://nbviewer.jupyter.org/github/eddieshengyuwang/ML_Tutorials/blob/master/ex6_SVM/Spam.ipynb)
 
