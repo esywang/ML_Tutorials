@@ -24,7 +24,7 @@ https://nbviewer.jupyter.org/github/eddieshengyuwang/ML_Tutorials/blob/master/ex
 https://nbviewer.jupyter.org/github/eddieshengyuwang/ML_Tutorials/blob/master/ex5_biasVar/BiasVar.ipynb)
 
 [ex6 (pt. 1) - Support Vector Machines](
-https://nbviewer.jupyter.org/github/eddieshengyuwang/ML_Tutorials/blob/master/ex6_SVM/SVMs.ipynb)
+http://htmlpreview.github.io/?https://github.com/eddieshengyuwang/ML_Tutorials/blob/master/ex6_SVM/SVMs.html)
 
 [ex6 (pt. 2) - Spam Classification using SVMs](https://nbviewer.jupyter.org/github/eddieshengyuwang/ML_Tutorials/blob/master/ex6_SVM/Spam.ipynb)
 
